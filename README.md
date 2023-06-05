@@ -1,6 +1,6 @@
-# Unichat Application
+# Chatly Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+![Chat Application]([https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg](https://cdn.discordapp.com/attachments/616291498677370905/1114986319374979092/image.png)
 
 ## Introduction
 
