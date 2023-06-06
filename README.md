@@ -1,15 +1,27 @@
-# Chatly Application
+# Chatly :speech_balloon:
 
-![Chat Application]([https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg](https://cdn.discordapp.com/attachments/616291498677370905/1114986319374979092/image.png)])
+Chatly is a real-time chat application built with Firebase, React.js, Chat Engine and Vanilla CSS. This platform allows users to chat and interact seamlessly in real-time. It offers a simple and intuitive interface which makes it easier for users to connect with friends, family or work colleagues. 
 
-## Introduction
+![Chatly App Screenshot](./public/chatly_screenshot.png)
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+## Features
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+- Real-time chatting
+- User authentication with Firebase
+- Real-time updates and synchronization with Firebase Firestore
+- Beautifully designed UI with Vanilla CSS
+- Uses React.js for efficient, fast and scalable front-end 
+- Fully responsive design that looks great on any device
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+## Getting Started
 
-### Bonus - E-mail notifications
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+### Prerequisites
+
+You will need to have `node` and `npm` installed on your local machine. You can check whether you have these installed by running:
+
+```bash
+node -v
+npm -v
+
