@@ -8,20 +8,16 @@ Chatly is a real-time chat application built with Firebase, React.js, Chat Engin
 
 - Real-time chatting
 - User authentication with Firebase
-- Real-time updates and synchronization with Firebase Firestore
 - Beautifully designed UI with Vanilla CSS
 - Uses React.js for efficient, fast and scalable front-end 
 - Fully responsive design that looks great on any device
+- Easily create groupchats and send all kinds of content, such as photographs and video
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+![Chatly App Screenshot](https://cdn.discordapp.com/attachments/616291498677370905/1115685401433210950/image.png)
 
-### Prerequisites
+Facebook login is currently down, please use the Google login feature instead. 
 
-You will need to have `node` and `npm` installed on your local machine. You can check whether you have these installed by running:
 
-```bash
-node -v
-npm -v
 
